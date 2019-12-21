@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "Vue3"
+  "name": "Vue3",
   "version": "3.0.0-alpha.0",
   "workspaces": [
     "packages/*"
